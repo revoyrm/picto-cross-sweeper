@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "picto-cross-sweeper",
+    "slug": "picto-cross-sweeper",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "picto-cross-sweeper"
+}
